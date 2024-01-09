@@ -1,0 +1,7 @@
+
+reference 10.0
+reference 10.0
+reference 10.0
+reference 10.0
+BokOGold 1.0E13
+BookOfMending 10000.0
